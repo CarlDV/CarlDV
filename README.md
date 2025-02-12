@@ -1,1 +1,1 @@
-everything is shit
+everything is shite
