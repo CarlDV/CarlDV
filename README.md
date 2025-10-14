@@ -1,10 +1,9 @@
+### Hello!! 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CarlDV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CarlDV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlDV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm currently studying computer programming and web developing - JAVA/HTML/CSS (11th grade)
 
----
-[![](https://visitcount.itsvg.in/api?id=CarlDV&icon=0&color=0)](https://visitcount.itsvg.in)
+I spend most of my time perfecting my major subjects activity (coding and webdev stuff)
+
+Right now, I don't have any personal projects yet.
+
+Contact me on Discord! `akihikosannnn` 
