@@ -6,4 +6,4 @@ I spend most of my time perfecting my major subjects activity (coding and webdev
 
 Right now, I don't have any personal projects yet.
 
-Contact me on Discord! [Link Text]([https://example.com](https://discord.com/users/852629822727651399))
+Contact me on Discord! [akihikosannnn]([https://example.com](https://discord.com/users/852629822727651399))
